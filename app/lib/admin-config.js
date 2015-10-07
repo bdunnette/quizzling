@@ -1,0 +1,6 @@
+AdminConfig = {
+  collections: {
+    // Questions: {},
+    // Quizzes: {}
+  }
+}

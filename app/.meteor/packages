@@ -1,0 +1,31 @@
+accounts-facebook
+aldeed:autoform
+aldeed:collection2
+autopublish             # Publish all data to the clients (for prototyping)
+blaze-html-templates    # Compile .html files into Meteor Blaze views
+cfs:gridfs
+cfs:standard-packages
+cfs:ui
+dburles:collection-helpers
+dburles:factory
+ecmascript              # Enable ECMAScript2015+ syntax in app code
+es5-shim                # ECMAScript 5 compatibility for older browsers.
+fortawesome:fontawesome
+http
+ian:accounts-ui-bootstrap-3
+insecure                # Allow all DB writes from clients (for prototyping)
+iron:router
+jquery                  # Helpful client-side library
+matb33:collection-hooks
+meteor-base             # Packages every Meteor app needs to have
+meteorhacks:npm
+mobile-experience       # Packages for a great mobile UX
+mongo                   # The database Meteor supports right now
+npm-container
+service-configuration
+session                 # Client-side reactive dictionary for your app
+standard-minifiers      # JS/CSS minifiers run for production mode
+tracker                 # Meteor's client-side reactive programming library
+twbs:bootstrap
+yogiben:admin
+zimme:active-route
